@@ -36,6 +36,15 @@ The mechanism works like this:
 
 ## Installation
 
+---
+
+## Towards A Secure and Resilient Blockchain Network <!-- omit in toc -->
+
+[Discord](https://discord.gg/bittensor) • [Network](https://taostats.io/) • [Research](https://bittensor.com/whitepaper)
+</div>
+
+---
+
 ### Before you proceed
 Before you proceed with the installation of the subnet, note the following: 
 
