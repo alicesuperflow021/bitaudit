@@ -19,7 +19,6 @@
 import typing
 import bittensor as bt
 
-
 class Audit(bt.Synapse):
     """
     This protocol helps in handling audit request and response communication between
