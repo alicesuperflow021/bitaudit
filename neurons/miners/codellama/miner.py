@@ -29,7 +29,7 @@ from bitaudit.utils.const import MIN_STAKE
 from bitaudit.miner.model import AuditModel
 
 
-class Miner(BaseMinerNeuron):
+class Miner(BaseMinerNeuron): # This is Miner class
     """
     Your miner neuron class. You should use this class to define your miner's behavior.
     In particular, you should replace the forward function with your own logic.
